@@ -3,7 +3,7 @@
 </br>
 
 ## :pushpin: Intro
-<img src="./profile.jpg" width="200px" height="200px" title="ProfileImg"></img>
+<img src="./profile.jpg" width="250px" height="250px" title="ProfileImg"></img>
 
 
 
