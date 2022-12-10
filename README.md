@@ -4,7 +4,7 @@
 </br>
 
 ## :pushpin: Intro
-<img src="./profile.jpg" width="100px" height="50px" title="Github_Logo"></img>
+<img src="./profile.jpg" width="200px" height="200px" title="ProfileImg"></img>
 
 </br>
 
