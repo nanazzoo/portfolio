@@ -1,10 +1,11 @@
 # 신보경 포트폴리오
-> 빠르게 캐치해서 끝까지 파고드는
 
 </br>
 
 ## :pushpin: Intro
 <img src="./profile.jpg" width="200px" height="200px" title="ProfileImg"></img>
+
+
 
 </br>
 
