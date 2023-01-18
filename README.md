@@ -7,17 +7,21 @@
 
 
 
+Java와 Spring Framework를 기반으로 게시판과 웹소켓을 이용한 채팅, API를 이용한 결제 기능 구현이 가능합니다. Node.js와 React.js를 스터디원과 함께 공부하여 작은 토이프로젝트를 만들었습니다. 새로운 언어, 기술을 배우는 것을 좋아하고 스터디를 통해 꾸준히 배워나가는 중입니다.
+
+
+
 </br>
 
 ## :pushpin: Contact
 - 이메일: bboya930518@gmail.com
-- 블로그: 
+- 블로그: https://nanazzoo.github.io/
 - 깃헙: https://github.com/nanazzoo
 
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
+### 1. [토이프로젝트](https://github.com/Integerous/goQuality)
 >고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
 >개발 기간: 2019.2.18 ~ 2019.4.5  
 >  
@@ -25,28 +29,29 @@
 >Java11 / Spring / Maven / Spring Data JPA / Oracle
 > / Spring Security / Javascript 
 >  
->[프로젝트 상세 설명]
+>[프로젝트 상세 설명]()
 
 ---
 
-### 2. [Fiesta]()
->SNS(Instagram) 클론 팀프로젝트 
->개발 기간: 2022.10.18 ~ 2022.12.8  
->  
+### 2. [FarmFarm](http://129.154.53.250:8080/)
+>농산물 거래 중개 복합 플랫폼, 원예 관련 용품 쇼핑몰
+>개발 기간: 2022.12.12 ~ 2023.01.11
+>
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명]
+>Java 11 / Spring 5.3.14 / Maven / JSP / ORACLE 18c  
+>
+>/ Tomcat 9.0 / Spring Security / Javascript / Mybatis  
+>
+>[프로젝트 상세 설명]()
 
 ---
 
-### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+### 3. [Fiesta](http://146.56.188.235:8080/)
+>SNS(Instagram) 클론 팀프로젝트  
+>개발 기간: 2022.10.18 ~ 2022.12.10  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 11 / Spring 5.3.14 / Maven / JSP / ORACLE 18c  
+>/ Tomcat 9.0 / Spring Security / Javascript / Mybatis 
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/nanazzoo/Fiesta)
