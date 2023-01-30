@@ -42,7 +42,7 @@ Java와 Spring Framework를 기반으로 게시판과 웹소켓을 이용한 채
 >
 >/ Tomcat 9.0 / Spring Security / Javascript / Mybatis  
 >
->[프로젝트 상세 설명]()
+>[프로젝트 상세 설명](https://github.com/nanazzoo/FarmFarm)
 
 ---
 
@@ -51,7 +51,7 @@ Java와 Spring Framework를 기반으로 게시판과 웹소켓을 이용한 채
 >개발 기간: 2022.10.18 ~ 2022.12.10  
 >  
 >기술 스택:  
->Java 11 / Spring 5.3.14 / Maven / JSP / ORACLE 18c  
+>Java 11 / Spring 5.3.14 / Maven / JSP / ORACLE 21c  
 >/ Tomcat 9.0 / Spring Security / Javascript / Mybatis 
 >  
 >[프로젝트 상세 설명](https://github.com/nanazzoo/Fiesta)
