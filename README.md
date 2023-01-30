@@ -20,20 +20,8 @@ Java와 Spring Framework를 기반으로 게시판과 웹소켓을 이용한 채
 
 </br>
 
-## :pushpin: Projects
-### 1. [토이프로젝트](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
->  
->기술 스택:  
->Java11 / Spring / Maven / Spring Data JPA / Oracle
-> / Spring Security / Javascript 
->  
->[프로젝트 상세 설명]()
 
----
-
-### 2. [FarmFarm](http://129.154.53.250:8080/)
+### 1. [FarmFarm](http://129.154.53.250:8080/)
 >농산물 거래 중개 복합 플랫폼, 원예 관련 용품 쇼핑몰
 >개발 기간: 2022.12.12 ~ 2023.01.11
 >
@@ -46,7 +34,7 @@ Java와 Spring Framework를 기반으로 게시판과 웹소켓을 이용한 채
 
 ---
 
-### 3. [Fiesta](http://146.56.188.235:8080/)
+### 2. [Fiesta](http://146.56.188.235:8080/)
 >SNS(Instagram) 클론 팀프로젝트  
 >개발 기간: 2022.10.18 ~ 2022.12.10  
 >  
