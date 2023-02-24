@@ -1,6 +1,11 @@
 <div align="center">
+  
+</br></br>
+
 
 # 끊임없이 도전하는 개발자 신보경 입니다.
+
+</br></br>
 
 </div>
 
