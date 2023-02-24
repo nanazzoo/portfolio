@@ -12,9 +12,6 @@
 </br>
 
 ## :pushpin: Intro
-<img src="./profile.jpg" width="250px" height="250px" title="ProfileImg"></img>
-
-
 
 Java와 Spring Framework를 기반으로 게시판과 웹소켓을 이용한 채팅, API를 이용한 결제 기능 구현이 가능합니다. SpringBoot를 스터디원과 공부하고 있습니다. 새로운 언어, 기술을 배우는 것을 좋아하고 스터디를 통해 꾸준히 배워나가는 중입니다.
 
