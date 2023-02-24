@@ -1,4 +1,4 @@
-<div text-align="center">
+<div align="center">
 
 # 끊임없이 도전하는 개발자
 # 신보경 입니다.
