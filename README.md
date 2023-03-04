@@ -31,11 +31,13 @@ Java와 Spring Framework를 기반으로 기본적인 게시판 구현, 웹소�
 
 ## :pushpin: Contact
 <div align="center">
+  
 이메일: bboya930518@gmail.com
 
 블로그: https://nanazzoo.github.io/
 
 깃헙: https://github.com/nanazzoo
+  
 </div>
 </br>
 
