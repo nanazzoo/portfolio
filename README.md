@@ -4,7 +4,7 @@
 
 
 # 끊임없이 도전하는 개발자 신보경 입니다.
-![KakaoTalk_20230106_160536937](https://user-images.githubusercontent.com/101784680/222878724-7795f7d5-1ddd-47b2-80f7-bbd5aee65591.jpg){: width="200" height="200"}
+![KakaoTalk_20230106_160536937](https://user-images.githubusercontent.com/101784680/222878724-7795f7d5-1ddd-47b2-80f7-bbd5aee65591.jpg){: width="200px" height="200px"}
 
 </br></br>
 
