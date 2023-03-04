@@ -17,13 +17,12 @@
 <img src="https://user-images.githubusercontent.com/101784680/222878724-7795f7d5-1ddd-47b2-80f7-bbd5aee65591.jpg"  width="200" height="200"/>
 
 </br>
-</br>
-  
-
 
 - Java Spring Framework를 이용한 웹 애플리케이션 개발 역량 확보
 - Restful API에 대한 지식 및 협업에 필요한 커뮤니케이션 능력 보유
 - Open API 활용 경험 및 Oracle Cloud 환경에 프로젝트 배포 경험
+
+</br>
 
 **끊임없이 발전하는 개발자를 꿈꾸는 신보경**입니다.
 
