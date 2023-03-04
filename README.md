@@ -13,22 +13,20 @@
 
 </br>
 
-## :pushpin: Intro
+### :pushpin: Intro
 
-- Java와 Spring Framework를 기반으로 기본적인 게시판 구현
-- 웹소켓을 이용한 채팅 구현
-- API를 이용한 결제 기능 구현
-- 새로운 언어, 기술을 배우는 것을 좋아하고 스터디를 통해 꾸준히 배워나가는 중입니다.
-- 함께 일하며 함께 어떤 성과를 이뤄내는 것에 행복을 느낍니다.
+Java와 Spring Framework를 기반으로 기본적인 게시판 구현, 웹소켓을 이용한 채팅 구현, API를 이용한 결제 기능 구현등등
+새로운 언어, 기술을 배우는 것을 좋아하고 스터디를 통해 꾸준히 배워나가는 중입니다.
+함께 일하며 함께 어떤 성과를 이뤄내는 것에 행복을 느낍니다.
 
 
 
 </br>
 
-## :pushpin: Contact
-- 이메일: bboya930518@gmail.com
-- 블로그: https://nanazzoo.github.io/
-- 깃헙: https://github.com/nanazzoo
+### :pushpin: Contact
+이메일: bboya930518@gmail.com
+블로그: https://nanazzoo.github.io/
+깃헙: https://github.com/nanazzoo
 
 </br>
 
