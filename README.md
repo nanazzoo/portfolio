@@ -16,6 +16,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/101784680/222878724-7795f7d5-1ddd-47b2-80f7-bbd5aee65591.jpg"  width="200" height="200"/>
 
+</br>
   
 Java와 Spring Framework를 기반으로 기본적인 게시판 구현, 웹소켓을 이용한 채팅 구현, API를 이용한 결제 기능 구현 등
 
