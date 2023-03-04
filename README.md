@@ -12,36 +12,38 @@
 
 </br>
 
-## :pushpin: Intro
-<div align="center">
+## 👩🏻‍💻 About Me.
+
 <img src="https://user-images.githubusercontent.com/101784680/222878724-7795f7d5-1ddd-47b2-80f7-bbd5aee65591.jpg"  width="200" height="200"/>
 
 </br>
 </br>
   
-Java와 Spring Framework를 기반으로 기본적인 게시판 구현, 웹소켓을 이용한 채팅 구현, API를 이용한 결제 기능 구현 등
 
-새로운 언어, 기술을 배우는 것을 좋아하고 스터디를 통해 꾸준히 배워나가는 중입니다.
 
-함께 일하며 함께 어떤 성과를 이뤄내는 것에 행복을 느낍니다.
-</div>
+- Java Spring Framework를 이용한 웹 애플리케이션 개발 역량 확보
+- Restful API에 대한 지식 및 협업에 필요한 커뮤니케이션 능력 보유
+- Open API 활용 경험 및 Oracle Cloud 환경에 프로젝트 배포 경험
 
+**끊임없이 발전하는 개발자를 꿈꾸는 신보경**입니다. 
+웹개발 교육원 파이널 프로젝트에서 최우수상을 수상했으며, 팀원들을 이끌어 끝까지 결과를 만들어낸 경험이 있습니다. 
+현재 리팩토링과 RestAPI에 대한 이해를 바탕으로 프로젝트를 개선하는 작업을 진행중입니다.
 
 </br>
 
 ## :pushpin: Contact
-<div align="center">
+
   
-이메일: bboya930518@gmail.com
+- 이메일: bboya930518@gmail.com
 
-블로그: https://nanazzoo.github.io/
+- 블로그: https://nanazzoo.github.io/
 
-깃헙: https://github.com/nanazzoo
+- 깃헙: https://github.com/nanazzoo
   
 </div>
 </br>
 
-</div>
+
 
 </br></br>
 
