@@ -4,10 +4,11 @@
 
 
 # 끊임없이 도전하는 개발자 신보경 입니다.
+![KakaoTalk_20230106_160536937](https://user-images.githubusercontent.com/101784680/222878724-7795f7d5-1ddd-47b2-80f7-bbd5aee65591.jpg)
 
 </br></br>
 
-</div>
+
 
 </br>
 
@@ -30,6 +31,7 @@
 
 </br>
 
+</div>
 
 ### 1. [FarmFarm](http://129.154.53.250:8080/)
 >농기구 쇼핑몰 및 농산물 거래 중개 플랫폼
