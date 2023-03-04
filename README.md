@@ -36,6 +36,8 @@ Java와 Spring Framework를 기반으로 기본적인 게시판 구현, 웹소�
 
 </div>
 
+</br></br>
+
 ### 1. [FarmFarm](http://129.154.53.250:8080/)
 >농기구 쇼핑몰 및 농산물 거래 중개 플랫폼
 >
@@ -47,7 +49,8 @@ Java와 Spring Framework를 기반으로 기본적인 게시판 구현, 웹소�
 >
 >[프로젝트 상세 설명](https://github.com/nanazzoo/FarmFarm)
 
----
+</br></br>
+
 
 ### 2. [Fiesta](http://146.56.188.235:8080/)
 >인스타그램을 밴치마킹한 SNS 페이지 
